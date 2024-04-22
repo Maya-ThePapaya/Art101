@@ -28,7 +28,7 @@ h2 {
 #content {
   margin: 10px;
   padding: 10px;
-  border: solid 1px #888;
+  border: solid 1px #384d86;
   background-color: #53a4c7;
 }
 
@@ -36,6 +36,6 @@ h2 {
 .minor-section {
   padding: 10px;
   margin-bottom: 10px;
-  border: solid 1px #888;
+  border: solid 1px #384d86;
   background-color: #85e2ea;
 }
