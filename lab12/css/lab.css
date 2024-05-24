@@ -6,15 +6,15 @@
 .minor-section {
   padding: 10px;
   margin-bottom: 10px;
-  border: ridge 15px #067606;
-  background-color: #e5da46;
+  border: ridge 15px #7ba5d5;
+  background-color: #f1e869;
 }
 
 #content {
   margin: 10px;
   padding-bottom: 50px;
-  border: ridge 10px #be2323;
-  background-color: #3d46ff;
+  border: ridge 10px #dc6161;
+  background-color: #67e589;
 }
 
 body {
