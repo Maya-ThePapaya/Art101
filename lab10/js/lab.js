@@ -18,7 +18,8 @@ function generateRandomText() {
 }
 
 // click listener for button
-$("#make-convo").click(function(){ const newText = generateRandomText();
+$("#make-convo").click(function(){ 
+    const newText = generateRandomText();
 
   // append a new div to our output div
   $("#output").append('<div class="text"><p>' + newText + '</p></div>');
